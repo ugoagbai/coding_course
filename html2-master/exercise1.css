@@ -1,0 +1,13 @@
+h1{
+	color: red;
+
+}
+p{
+	/*declaration block within a rule set*/
+	font-family:'Helvetica';
+	font-size:16px;
+	color:blue;
+}
+ul li {
+	background-color: yellow;
+}

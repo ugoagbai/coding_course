@@ -1,0 +1,19 @@
+#about_blue {
+		background-color: rgba(0, 0, 255, 0.5);
+		border-style: solid;
+		border-width: 2px;
+
+}
+#about_blue li{
+
+	color: blue;
+}
+#about_yellow {
+	background-color: rgba(255, 218, 185, 0.5);
+	border-style: solid;
+	border-width: 2px;
+}
+#about_yellow li{
+	color: yellow;
+
+}
